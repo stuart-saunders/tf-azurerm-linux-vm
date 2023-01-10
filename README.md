@@ -1,3 +1,3 @@
-# Terraform Module Template
+# Azure Linux Virtual Machine - Terraform Module
 
-Starter template for Terraform modules
+This module can be used to provision Linux Virtual Machines in Azure.
